@@ -1,0 +1,32 @@
+h2 {
+    background-color: darkorange;
+    color: white;
+}
+h3 {
+    background-color: lightslategrey;
+    font-weight: 1000;
+}
+input[type="number"] {
+    font-weight: 700;
+    
+    font-size: 20px;
+}
+#rupee {
+    font-size: 50px;
+    font-weight: 700;
+    color: red;
+}
+button#dep {
+    background-color: darkgreen;
+}
+button#dep:hover{
+    background-color: rgb(80, 111, 33);
+}
+.balancetotal {
+    font-size: 50px;
+    background-color: bisque;
+    margin-top: 30px;
+    color: currentcolor;
+    font-style: normal;
+    font-weight: bold;
+}
